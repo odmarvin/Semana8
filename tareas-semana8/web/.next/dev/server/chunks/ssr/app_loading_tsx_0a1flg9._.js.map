@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/momar/OneDrive/Documentos/U/Progra%20IV/PROGRA%20IV/Semana%208/tareas-semana8/web/app/loading.tsx"],"sourcesContent":["//loading.tsx\r\nexport default function Cargando() {\r\n  return (\r\n    <main className=\"mx-auto max-w-2xl px-6 py-12\">\r\n      <div className=\"h-9 w-64 animate-pulse rounded bg-slate-200\" />\r\n      <div className=\"mt-8 space-y-3\">\r\n        {[0, 1, 2, 3].map((i) => (\r\n          <div key={i} className=\"h-16 animate-pulse rounded-xl bg-slate-200\" />\r\n        ))}\r\n      </div>\r\n    </main>\r\n  );\r\n}"],"names":["Cargando","className","map","i"],"mappings":"AAAA,aAAa;;;;;;;AACE,SAASA;IACtB,qBACE,8OAAC;QAAKC,WAAU;;0BACd,8OAAC;gBAAIA,WAAU;;;;;;0BACf,8OAAC;gBAAIA,WAAU;0BACZ;oBAAC;oBAAG;oBAAG;oBAAG;iBAAE,CAACC,GAAG,CAAC,CAACC,kBACjB,8OAAC;wBAAYF,WAAU;uBAAbE;;;;;;;;;;;;;;;;AAKpB"}}]
+}

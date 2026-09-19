@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/momar/OneDrive/Documentos/U/Progra%20IV/PROGRA%20IV/Semana%208/tareas-semana8/web/app/proveedores.tsx"],"sourcesContent":["// app/proveedores.tsx\r\n'use client';\r\n\r\nimport { QueryClient, QueryClientProvider } from '@tanstack/react-query';\r\nimport { useState } from 'react';\r\n\r\nexport function Proveedores({\r\n  children,\r\n}: {\r\n  children: React.ReactNode;\r\n}) {\r\n  const [cliente] = useState(() => new QueryClient());\r\n\r\n  return (\r\n    <QueryClientProvider client={cliente}>\r\n      {children}\r\n    </QueryClientProvider>\r\n  );\r\n}"],"names":["Proveedores","children","cliente","client"],"mappings":";;;;;AAGA;AAAA;AACA;;;AAJA,sBAAsB;AACtB;;;AAKO,SAASA,YAAY,EAC1BC,QAAQ,EAGT;;IACC,MAAM,CAACC,QAAQ,GAAG,IAAA,yKAAQ;gCAAC,IAAM,IAAI,+LAAW;;IAEhD,qBACE,6LAAC,gNAAmB;QAACC,QAAQD;kBAC1BD;;;;;;AAGP;GAZgBD;KAAAA"}}]
+}

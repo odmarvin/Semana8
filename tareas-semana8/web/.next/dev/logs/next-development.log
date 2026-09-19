@@ -1,0 +1,12 @@
+{"timestamp":"00:00:18.828","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:22.154","source":"Server","level":"ERROR","message":"⨯ TypeError: fetch failed"}
+{"timestamp":"00:00:22.517","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:31.618","source":"Server","level":"ERROR","message":"⨯ TypeError: fetch failed"}
+{"timestamp":"00:00:31.822","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:44.302","source":"Server","level":"LOG","message":"✓ Compiled in 466ms"}
+{"timestamp":"00:00:44.388","source":"Server","level":"ERROR","message":"⨯ TypeError: fetch failed"}
+{"timestamp":"00:00:52.368","source":"Server","level":"ERROR","message":"⨯ TypeError: fetch failed"}
+{"timestamp":"00:00:52.575","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:01:30.959","source":"Server","level":"ERROR","message":"⨯ TypeError: fetch failed"}
+{"timestamp":"00:01:31.219","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:03:42.735","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
